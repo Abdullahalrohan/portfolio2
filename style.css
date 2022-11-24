@@ -1,0 +1,45 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+}
+.flex-view {
+    display: flex;
+    padding:5% 10% ;
+    
+   
+}
+.container{
+    width: 50%;
+    
+}
+.container img{
+    width: 70%;
+    padding-left: 20%;
+
+}
+#border-line{
+    border-left:4px solid red;
+    
+    
+
+}
+h1{
+    padding-left: 10px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 50px;
+    
+}
+.button{
+    padding: 10px 40px;
+    background-color: rgb(190, 13, 190);
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    font-weight: 800;
+    background-image: linear-gradient(rgb(221, 61, 61),rgb(177, 46, 177));
+    
+}
+p{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
